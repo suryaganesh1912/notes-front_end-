@@ -6,5 +6,5 @@ export default defineConfig(async () => {
 
   return {
     plugins: [react(), tailwindcss()],
-  };
+  };
 });

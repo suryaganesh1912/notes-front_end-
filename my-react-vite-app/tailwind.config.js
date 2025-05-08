@@ -1,3 +1,4 @@
+
 /** @type {import('@tailwindcss').Config} */
 const plugin=require("tailwindcss/plugin")
 export default{
@@ -5,5 +6,5 @@ export default{
     theme:{
 
     },
-    plugins:[],
+    plugins:[],
 }
